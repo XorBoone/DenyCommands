@@ -1,0 +1,4 @@
+name: CommandBlocker
+main: net.xornick.denycommands.DenyCommand
+version: 1.0
+author: xornick
